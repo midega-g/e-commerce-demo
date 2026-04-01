@@ -1,0 +1,16 @@
+create a generic frontend in typescript with react for an ecommerce website
+
+
+using github tool @create_pull_request for the repo https://github.com/ALX-Aws-WEDNESDAY/e-commerce.git
+
+
+using all the relevant github mcp server tools:
+1. create a remote repo and commit and push
+2. create two branches main and dev.
+3. allow one person to accept the merge
+4. automated testing in ci/cd pipeline
+5. deny direct push to the main branch
+6. create a simple readme.md
+7. let it resemble an open source project
+8. create it using a new owner
+9. not must 
